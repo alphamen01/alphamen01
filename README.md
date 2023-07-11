@@ -8,6 +8,7 @@
 ### 👨‍💻 Acerca de mí :
 - 🔭 Actualmente estoy trabajando en: **[Canvia](https://www.canvia.com/)**
 - 🌱 Actualmente estoy aprendiendo: **Utilizar herramientas de pruebas automatizadas que garanticen la calidad de un software.**
+- 👨‍💻 Todos mis proyectos están disponibles en: **[https://github.com/alphamen01?tab=repositories](https://github.com/alphamen01?tab=repositories)**
 - 📫 Cómo contactarme: **lesg.2233@gmail.com**
 
 <h3 align="left"> 🔨 Lenguajes y Herramientas:</h3>
