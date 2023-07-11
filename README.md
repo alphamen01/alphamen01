@@ -85,12 +85,34 @@ Here are some ideas to get you started:
     <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" />
     </a>
-    <a href="https://github.com/karatelabs/karate" target="_blank" rel="noreferrer">
-        <img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2020/05/1200px-Karate_software_logo.svg_.png?resize=1024%2C1021&ssl=1" alt="karate dsl" width="40" height="40" />
-    </a>
    <a href="https://cucumber.io/" target="_blank" rel="noreferrer">
         <img src="https://cucumber.io/cucumber/media/images/logos/icons/cucumber-open-icon.svg" alt="cucumber" width="40" height="40" />
     </a>
+   <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
+        <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit" width="40" height="40" />
+    </a>
+   <a href="https://maven.apache.org/download.cgi" target="_blank" rel="noreferrer">
+        <img src="https://3.bp.blogspot.com/-YoXSXqqOyvI/WXsLGwITvyI/AAAAAAAAIFQ/hwobCg7-OKYvqI3FJe4dRh0NFz2ImJKiwCEwYBhgL/s200/maven%2Bjava%2Blogo.png" alt="maven" width="40" height="40" />
+    </a>
+    <a href="https://github.com/karatelabs/karate" target="_blank" rel="noreferrer">
+        <img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2020/05/1200px-Karate_software_logo.svg_.png?resize=1024%2C1021&ssl=1" alt="karate dsl" width="40" height="40" />
+    </a>
+   <a href="https://www.atlassian.com/software/jira?&aceid=&adposition=&adgroup=140479881486&campaign=18442480203&creative=663390759269&device=c&keyword=jira&matchtype=e&network=g&placement=&ds_kids=p73335832032&ds_e=GOOGLE&ds_eid=700000001558501&ds_e1=GOOGLE&gclid=CjwKCAjw-7OlBhB8EiwAnoOEk9zIaruoGMWb5EUzTtlCQjuJnn-HAEi0DwjEmesC6zR2dkj9GVo_tRoCaP0QAvD_BwE&gclsrc=aw.ds" target="_blank" rel="noreferrer">
+        <img src="https://e7.pngegg.com/pngimages/149/630/png-clipart-jira-software-full-logo-tech-companies-thumbnail.png" alt="jira" width="40" height="40" />
+    </a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA" width="40" height="40" />
+    </a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="vsc" width="40" height="40" />
+    </a>
+    <a href="https://visualstudio.microsoft.com/es/" target="_blank" rel="noreferrer">
+        <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="vs" width="40" height="40" />
+    </a>
+     <a href="https://eclipseide.org/" target="_blank" rel="noreferrer">
+        <img src="https://es.wizcase.com/wp-content/uploads/2021/05/Eclipse-IDE-Logo.jpg" alt="eclipse" width="40" height="40" />
+    </a>
+   
 </p>
 
 ---
