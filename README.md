@@ -1,21 +1,14 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">alphaman01</a> 👋</h1>
+   <h3 align="center">Un apasionado desarrollador de software de Peru. Tengo experiencia en el uso de varios lenguajes de programación, herramientas y tecnologías, con la capacidad de diseñar, desarrollar y mantener aplicaciones de calidad.</h3>
 </div>
 
-<!--
-**alphamen01/alphamen01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Acerca de mí :
+- 🔭 Actualmente estoy trabajando en: **[Canvia](https://www.canvia.com/)**
+- 🌱 Actualmente estoy aprendiendo: **Utilizar herramientas de pruebas automatizadas que garanticen la calidad de un software.**
+- 📫 Cómo contactarme: **lesg.2233@gmail.com**
 
 <h3 align="left"> 🔨 Lenguajes y Herramientas:</h3>
 <p align="left"> 
@@ -98,7 +91,7 @@ Here are some ideas to get you started:
         <img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2020/05/1200px-Karate_software_logo.svg_.png?resize=1024%2C1021&ssl=1" alt="karate dsl" width="40" height="40" />
     </a>
    <a href="https://www.atlassian.com/software/jira?&aceid=&adposition=&adgroup=140479881486&campaign=18442480203&creative=663390759269&device=c&keyword=jira&matchtype=e&network=g&placement=&ds_kids=p73335832032&ds_e=GOOGLE&ds_eid=700000001558501&ds_e1=GOOGLE&gclid=CjwKCAjw-7OlBhB8EiwAnoOEk9zIaruoGMWb5EUzTtlCQjuJnn-HAEi0DwjEmesC6zR2dkj9GVo_tRoCaP0QAvD_BwE&gclsrc=aw.ds" target="_blank" rel="noreferrer">
-        <img src="https://e7.pngegg.com/pngimages/149/630/png-clipart-jira-software-full-logo-tech-companies-thumbnail.png" alt="jira" width="40" height="40" />
+        <img src="https://www.shareicon.net/download/2017/06/23/887698_management.ico" alt="jira" width="40" height="40" />
     </a>
     <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA" width="40" height="40" />
