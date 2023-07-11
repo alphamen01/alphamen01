@@ -85,6 +85,12 @@ Here are some ideas to get you started:
     <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" />
     </a>
+    <a href="https://github.com/karatelabs/karate" target="_blank" rel="noreferrer">
+        <img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2020/05/1200px-Karate_software_logo.svg_.png?resize=1024%2C1021&ssl=1" alt="karate dsl" width="40" height="40" />
+    </a>
+   <a href="https://cucumber.io/" target="_blank" rel="noreferrer">
+        <img src="https://cucumber.io/cucumber/media/images/logos/icons/cucumber-open-icon.svg" alt="cucumber" width="40" height="40" />
+    </a>
 </p>
 
 ---
