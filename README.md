@@ -11,6 +11,8 @@
 - 👨‍💻 Todos mis proyectos están disponibles en: **[https://github.com/alphamen01?tab=repositories](https://github.com/alphamen01?tab=repositories)**
 - 📫 Cómo contactarme: **lesg.2233@gmail.com**
 
+---
+
 <h3 align="left"> 🔨 Lenguajes y Herramientas:</h3>
 <p align="left"> 
    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
