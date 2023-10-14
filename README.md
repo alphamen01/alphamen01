@@ -1,13 +1,13 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://github.com/alphamen01">alphamen01</a> 👋</h1>
-   <h3 align="center">Un apasionado desarrollador de software de Peru. Tengo experiencia en el uso del lenguaje de programación C#, herramientas y tecnologías relacionadas con .NET, con la capacidad de diseñar, desarrollar y mantener aplicaciones de calidad.</h3>
+   <h3 align="center">Un apasionado desarrollador de software de Peru. Tengo experiencia en el uso del lenguaje de programación C#, herramientas y tecnologías relacionadas con .NET, con la capacidad de diseñar, desarrollar y mantener aplicaciones de calidad. Además de mi experiencia en .NET, poseo conocimientos básicos en otros lenguajes de programación.</h3>
 </div>
 
 ---
 
 ### 👨‍💻 Acerca de mí :
-- 🔭 Actualmente estoy trabajando en: **[Canvia](https://www.canvia.com/)**
-- 🌱 Actualmente estoy aprendiendo: **Utilizar herramientas de pruebas automatizadas que garanticen la calidad de un software.**
+<!-- - 🔭 Actualmente estoy trabajando en: **[Canvia](https://www.canvia.com/)**-->
+- 🌱 Actualmente estoy aprendiendo: **Actualmente, estoy en un emocionante proceso de aprendizaje, centrándome en las tecnologías ASP.NET Web API y Angular.**
 - 👨‍💻 Todos mis proyectos están disponibles en: **[https://github.com/alphamen01?tab=repositories](https://github.com/alphamen01?tab=repositories)**
 - 📫 Cómo contactarme: **lesg.2233@gmail.com**
 
