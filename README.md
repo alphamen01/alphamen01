@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://github.com/alphamen01">alphamen01</a> 👋</h1>
-   <h3 align="center">Un apasionado desarrollador de software de Peru. Tengo experiencia en el uso de varios lenguajes de programación, herramientas y tecnologías, con la capacidad de diseñar, desarrollar y mantener aplicaciones de calidad.</h3>
+   <h3 align="center">Un apasionado desarrollador de software de Peru. Tengo experiencia en el uso del lenguaje de programación C#, herramientas y tecnologías relacionadas con .NET, con la capacidad de diseñar, desarrollar y mantener aplicaciones de calidad.</h3>
 </div>
 
 ---
