@@ -7,7 +7,7 @@
 
 ### 👨‍💻 Acerca de mí :
 <!-- - 🔭 Actualmente estoy trabajando en: **[Canvia](https://www.canvia.com/)**-->
-- 🌱 Actualmente estoy aprendiendo: **Actualmente, estoy en un emocionante proceso de aprendizaje, centrándome en las tecnologías ASP.NET Web API y Angular.**
+- 🌱 Actualmente: **Estoy en un emocionante proceso de aprendizaje, centrándome en las tecnologías ASP.NET Web API y Angular.**
 - 👨‍💻 Todos mis proyectos están disponibles en: **[https://github.com/alphamen01?tab=repositories](https://github.com/alphamen01?tab=repositories)**
 - 📫 Cómo contactarme: **lesg.2233@gmail.com**
 
